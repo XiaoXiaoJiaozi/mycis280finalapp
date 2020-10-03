@@ -1,4 +1,4 @@
-## Choose your dinning place
+## Choose a dining place
 
 You can use the [editor on GitHub](https://github.com/XiaoXiaoJiaozi/mycis280finalapp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
