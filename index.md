@@ -1,8 +1,6 @@
-## Choose a dining place
+## Where shall we eat?
 
-You can use the [editor on GitHub](https://github.com/XiaoXiaoJiaozi/mycis280finalapp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My mother-in-law and her friends love to go out to eat together, however, they have trouble choosing a place. They all have their favorite places, but no one wants to choose. So my idea is to create an app that randomly chooses a place from among their favorites. The app will allow the user to add and edit players and their favorite restaurants. Then, when it comes time to choose a place, the user selects which players are present. A wheel will appear on the screen with the favorites of the players present. Then, when the user presses the 'Spin' button, the wheel will spin and stop on the randomly selected restaurant.
 
 ### Markdown
 
