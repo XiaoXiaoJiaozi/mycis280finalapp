@@ -1,6 +1,6 @@
 ## Where shall we eat?
 
-My mother-in-law and her friends love to go out to eat together, however, they have trouble choosing a place. They all have their favorite places, but no one wants to choose. So my idea is to create an app that randomly chooses a place from among their favorites. The app will allow the user to add and edit players and their favorite restaurants. Then, when it comes time to choose a place, the user selects which players are present. A wheel will appear on the screen with the favorites of the players present. Then, when the user presses the 'Spin' button, the wheel will spin and stop on the randomly selected restaurant.
+Have you ever had trouble choosing a place to eat? Let this app choose for you! Simply enter the diners and their favourite restaurants. Then, when it comes time to choose a place, click 'Spin' and 'Where shall we eat?' will choose for you.
 
 ### Markdown
 
